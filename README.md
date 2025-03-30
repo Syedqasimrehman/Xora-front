@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="public/images/screen.jpg"/>
+<div dir="auto" style="display:flex; justify-content:center;">
+    <img src="https://camo.githubusercontent.com/04b550bbd4f85cc6ac53aaf7ec71164d33792da75e07d0d566a43aa74f7d7977/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d726561637426636f6c6f723d363144414642" alt="react.js" data-canonical-src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&amp;logoColor=white&amp;logo=react&amp;color=61DAFB" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/08fce47b03ba015377ea8bc5f6df9c2335569ba7517ab3915d01474ecf0adc89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d475341502d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d677265656e736f636b26636f6c6f723d383843453032" alt="greensock" data-canonical-src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&amp;logoColor=white&amp;logo=greensock&amp;color=88CE02" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/93bafe03a143d759a2983be7cd132f70a6a186233ca455f08f3f198adb3d2381/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e645f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7461696c77696e6463737326636f6c6f723d303642364434" alt="tailwindcss" data-canonical-src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&amp;logoColor=white&amp;logo=tailwindcss&amp;color=06B6D4" style="max-width: 100%;">
+  </div>
